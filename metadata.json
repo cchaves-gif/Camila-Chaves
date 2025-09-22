@@ -1,0 +1,5 @@
+{
+  "name": "Geosistemas MemoTest",
+  "description": "Un juego de memoria de tipo 'tap and match' con un temporizador de 35 segundos. Los jugadores pueden cargar sus propias imágenes, jugar y luego registrar su nombre, correo electrónico y universidad. Los datos de los jugadores se pueden descargar.",
+  "requestFramePermissions": []
+}
